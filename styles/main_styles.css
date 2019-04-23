@@ -740,14 +740,23 @@ section
 	max-width: 600px;
 	margin: 0 auto;
 }
-.section_title
+.section_title span
 {
 	line-height: 1.2;
+	color: #719483;
+
+}
+
+.section_title 
+{
+	line-height: 1.2;
+
 }
 .section_subtitle
 {
-	line-height: 1.85;
+	line-height: 2;
 	margin-top: 14px;
+	font-size: 30px;
 }
 .section_background
 {
@@ -803,6 +812,14 @@ section
 	font-weight: 700;
 	line-height: 1.2;
 	color: #384158;
+}
+.home_slider_title span
+{
+	font-family: 'Roboto Slab', serif;
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 1.2;
+	color: #719473;
 }
 .home_slider_subtitle
 {
